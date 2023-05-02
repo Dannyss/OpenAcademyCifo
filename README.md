@@ -21,7 +21,7 @@ La idea inicial es crear una plataforma colaborativa, donde podamos crear, compa
 
 # Maquetado y Prototipado
 
-# Técnologías
+# Tecnologías
 
   ## Cliente / Servidor
     Node, React(HTML,CSS3, JS), MySQL, Firebase/Firestore.
